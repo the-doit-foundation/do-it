@@ -7,6 +7,6 @@ namespace math
     {
       Type w, x, y, z;
       Type data[4];
-    }
+	};
   };
 };

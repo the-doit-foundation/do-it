@@ -7,6 +7,6 @@ namespace vec3
     {
       Type x, y, z;
       Type data[3];
-    }
+	};
   };
 };
