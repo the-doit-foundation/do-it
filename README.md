@@ -5,3 +5,5 @@ Meet do it!, because you learn it by doing it!
 
 # building
 
+# Contributors
+The do it! project was brought to you by Antoine Queiros and Rémi Laot.
