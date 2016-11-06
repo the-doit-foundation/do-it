@@ -7,7 +7,7 @@ namespace math
     {
       Type x, y;
       Type data[2];
-	};
+	  };
 
 
     inline Type & operator[](size_t i);
@@ -23,9 +23,6 @@ namespace math
     inline vec2<Type> & operator-(const vec2<Type> & other) const;
 
     inline vec2<Type> & dot  (const vec2<Type> & other) const;
-    inline vec2<Type> & cross(const vec2<Type> & other) const;
-
     inline friend vec2<Type> & dot  (const vec2<Type> & a, const vec2<Type> & b);
-    inline friend vec2<Type> & cross(const vec2<Type> & a, const vec2<Type> & b);
   };
 }

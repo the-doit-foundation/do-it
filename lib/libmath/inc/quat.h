@@ -7,7 +7,7 @@ namespace math
     {
       Type w, x, y, z;
       Type data[4];
-	};
+	  };
     
     inline Type & operator[](size_t i);
     inline quat<Type> & operator-() const;
